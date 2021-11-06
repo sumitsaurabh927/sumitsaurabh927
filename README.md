@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/sumitsaurabh927)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaurabh927&theme=onedark)](https://github.com/sumitsaurabh927)
 
-<!--START_SECTION:activity-->
+This is a list of my most recent activity on GitHub.
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
