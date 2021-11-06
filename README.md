@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaurabh927&theme=onedark)](https://github.com/sumitsaurabh927)
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
