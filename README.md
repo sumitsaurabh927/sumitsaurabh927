@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaurabh927&theme=onedark)](https://github.com/sumitsaurabh927)
 
 This is a list of my most recent activity on GitHub.
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
