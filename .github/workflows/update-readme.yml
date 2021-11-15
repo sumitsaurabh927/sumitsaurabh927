@@ -3,7 +3,7 @@ name: Update README
 on:
   schedule:
     # Runs every 30 minutes
-    - cron: '*/30 * * * *'
+    - cron: '*/3000 * * * *'
 
 jobs:
   build:
