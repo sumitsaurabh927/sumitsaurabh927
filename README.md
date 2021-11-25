@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 [![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&hide=stars&count_private=true&show_icons=true&theme=onedark)](https://github.com/sumitsaurabh927)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaurabh927&theme=onedark)](https://github.com/sumitsaurabh927)
 
-This is a list of my most recent activity on GitHub.
+<!-- This is a list of my most recent activity on GitHub.
 
 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
