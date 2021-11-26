@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 <!-- This is a list of my most recent activity on GitHub.
 
 
-### Recent Activity
+---
+
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
