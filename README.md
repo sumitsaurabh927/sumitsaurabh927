@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity--> 
