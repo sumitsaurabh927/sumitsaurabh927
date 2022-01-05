@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#3](https://github.com/robbobfrh84/trips-ui/issues/3) in [robbobfrh84/trips-ui](https://github.com/robbobfrh84/trips-ui)
 <!--END_SECTION:activity-->
 
 ---
