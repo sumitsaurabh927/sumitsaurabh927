@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/robbobfrh84/trips-ui/issues/3) in [robbobfrh84/trips-ui](https://github.com/robbobfrh84/trips-ui)
+1. 🎉 Merged PR [#2](https://github.com/sumitsaurabh927/class-12/pull/2) in [sumitsaurabh927/class-12](https://github.com/sumitsaurabh927/class-12)
 <!--END_SECTION:activity-->
 
 ---
