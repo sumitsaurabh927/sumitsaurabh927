@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/sumitsaurabh927/class-12/pull/61) in [sumitsaurabh927/class-12](https://github.com/sumitsaurabh927/class-12)
+1. 🎉 Merged PR [#63](https://github.com/sumitsaurabh927/class-12/pull/63) in [sumitsaurabh927/class-12](https://github.com/sumitsaurabh927/class-12)
 <!--END_SECTION:activity-->
 
 ---
