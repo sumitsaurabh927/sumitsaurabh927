@@ -10,7 +10,7 @@
 
 - 🔭 My tech stack is **MERN**
 
-- 📝 I write blogs at [https://sumitsaurabh.hashnode.dev/](https://sumitsaurabh.hashnode.dev/)
+- 📝 I write blogs [here](https://sumitsaurabh.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
