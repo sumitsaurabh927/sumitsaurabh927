@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/sumitsaurabh927/github-slideshow/issues/1) in [sumitsaurabh927/github-slideshow](https://github.com/sumitsaurabh927/github-slideshow)
+1. 🎉 Merged PR [#3](https://github.com/sumitsaurabh927/github-slideshow/pull/3) in [sumitsaurabh927/github-slideshow](https://github.com/sumitsaurabh927/github-slideshow)
 <!--END_SECTION:activity-->
 
 ---
