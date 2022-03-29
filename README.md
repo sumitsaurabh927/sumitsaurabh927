@@ -19,7 +19,7 @@
 </p>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/sumitsaurabh927/sumitsaurabh927/blob/master/devcard.svg" width="400" alt="Sumit Saurabh's Dev Card"/></a>
+<a href="https://api.daily.dev/devcards/7d94ae10a1cc42f39f319acddfaf2e5b.png?r=6b7"><img src="https://github.com/sumitsaurabh927/sumitsaurabh927/blob/master/devcard.svg" width="400" alt="Sumit Saurabh's Dev Card"/></a>
 
 
 
