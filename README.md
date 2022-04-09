@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sumitsaurabh927/github-slideshow/pull/3) in [sumitsaurabh927/github-slideshow](https://github.com/sumitsaurabh927/github-slideshow)
+1. 🎉 Merged PR [#1](https://github.com/sumitsaurabh927/Rock-Paper-Scissors/pull/1) in [sumitsaurabh927/Rock-Paper-Scissors](https://github.com/sumitsaurabh927/Rock-Paper-Scissors)
 <!--END_SECTION:activity-->
 
 ---
