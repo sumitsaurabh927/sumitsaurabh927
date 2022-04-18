@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sumitsaurabh927/Rock-Paper-Scissors/pull/1) in [sumitsaurabh927/Rock-Paper-Scissors](https://github.com/sumitsaurabh927/Rock-Paper-Scissors)
+1. 🗣 Commented on [#8151](https://github.com/Leaflet/Leaflet/issues/8151) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 <!--END_SECTION:activity-->
 
 ---
