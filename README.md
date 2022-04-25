@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32414](https://github.com/mui/material-ui/issues/32414) in [mui/material-ui](https://github.com/mui/material-ui)
+1. 🗣 Commented on [#8183](https://github.com/Leaflet/Leaflet/issues/8183) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 <!--END_SECTION:activity-->
 
 ---
