@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#241](https://github.com/nhost/nhost/issues/241) in [nhost/nhost](https://github.com/nhost/nhost)
+1. 💪 Opened PR [#3](https://github.com/ujjwalchadha8/resourcify.me/pull/3) in [ujjwalchadha8/resourcify.me](https://github.com/ujjwalchadha8/resourcify.me)
 <!--END_SECTION:activity-->
 
 ---
