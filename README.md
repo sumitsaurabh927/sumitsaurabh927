@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/taskany-inc/issues/issues/133) in [taskany-inc/issues](https://github.com/taskany-inc/issues)
+1. ❗️ Opened issue [#4377](https://github.com/EddieHubCommunity/support/issues/4377) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
