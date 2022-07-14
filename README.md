@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4380](https://github.com/EddieHubCommunity/support/issues/4380) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#2](https://github.com/sumitsaurabh927/Rock-Paper-Scissors/pull/2) in [sumitsaurabh927/Rock-Paper-Scissors](https://github.com/sumitsaurabh927/Rock-Paper-Scissors)
 <!--END_SECTION:activity-->
 
 ---
