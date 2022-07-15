@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+1. 🗣 Commented on [#86](https://github.com/dailydotdev/docs/issues/86) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
 
 ---
