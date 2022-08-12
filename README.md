@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **any full stack app**
 
-- 📝 I regularly write articles on [https://sumitsaurabh.hashnode.dev/](https://sumitsaurabh.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://sumitsaurabh.hashnode.dev/)
 
 - 💬 Ask me about **Javascript, Open Source and Communities**
 
-- 📫 How to reach me **https://twitter.com/sumitsaurabh927**
+- 📫 You can reach out to me on [Twitter](https://twitter.com/sumitsaurabh927)
 
 - ⚡ Fun fact **I use light mode in VS Code!**
 
