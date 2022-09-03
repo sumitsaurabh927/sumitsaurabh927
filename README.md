@@ -39,7 +39,8 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&show_icons=true&locale=en" alt="sumitsaurabh927" /></p>
 
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&count_private=true)
+
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
