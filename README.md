@@ -36,15 +36,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsaurabh927&show_icons=true&locale=en&layout=compact" alt="sumitsaurabh927" /></p>
 
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&show_icons=true&locale=en" alt="sumitsaurabh927" /></p>
+-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 2. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 3. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 4. 🗣 Commented on [#86](https://github.com/dailydotdev/docs/issues/86) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 <!--END_SECTION:activity-->
-
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&show_icons=true&locale=en" alt="sumitsaurabh927" /></p>
--->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
