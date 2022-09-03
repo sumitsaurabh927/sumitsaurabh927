@@ -48,7 +48,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
-2. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
+2. ❗️ Closed issue [#86](https://github.com/dailydotdev/docs/issues/86) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
 3. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
-4. 🗣 Commented on [#86](https://github.com/dailydotdev/docs/issues/86) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 🗣 Commented on [#8333](https://github.com/Leaflet/Leaflet/issues/8333) in [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet)
 <!--END_SECTION:activity-->
