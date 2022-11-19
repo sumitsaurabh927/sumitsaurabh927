@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
-2. 🗣 Commented on [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/issues/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
-3. 🗣 Commented on [#2](https://github.com/sumitsaurabh927/Open-Souce-Demo/issues/2) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
-4. 🎉 Merged PR [#2](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/2) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
+1. ❌ Closed PR [#166](https://github.com/swapagarwal/awesome-inspiration/pull/166) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+2. 🗣 Commented on [#166](https://github.com/swapagarwal/awesome-inspiration/issues/166) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+3. 💪 Opened PR [#214](https://github.com/swapagarwal/awesome-inspiration/pull/214) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
+4. 🎉 Merged PR [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
 <!--END_SECTION:activity-->
