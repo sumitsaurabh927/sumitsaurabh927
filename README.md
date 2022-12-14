@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#166](https://github.com/swapagarwal/awesome-inspiration/pull/166) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
-2. 🗣 Commented on [#166](https://github.com/swapagarwal/awesome-inspiration/issues/166) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
-3. 💪 Opened PR [#214](https://github.com/swapagarwal/awesome-inspiration/pull/214) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
-4. 🎉 Merged PR [#3](https://github.com/sumitsaurabh927/Open-Souce-Demo/pull/3) in [sumitsaurabh927/Open-Souce-Demo](https://github.com/sumitsaurabh927/Open-Souce-Demo)
+1. ❌ Closed PR [#3458](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3458) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+2. 🗣 Commented on [#3458](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3458) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 💪 Opened PR [#3458](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3458) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+4. ❌ Closed PR [#166](https://github.com/swapagarwal/awesome-inspiration/pull/166) in [swapagarwal/awesome-inspiration](https://github.com/swapagarwal/awesome-inspiration)
 <!--END_SECTION:activity-->
