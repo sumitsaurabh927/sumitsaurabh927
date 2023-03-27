@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2381](https://github.com/novuhq/novu/issues/2381) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#2381](https://github.com/novuhq/novu/pull/2381) in [novuhq/novu](https://github.com/novuhq/novu)
-3. ❌ Closed PR [#3458](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3458) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+1. 💪 Opened PR [#3082](https://github.com/novuhq/novu/pull/3082) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#2381](https://github.com/novuhq/novu/issues/2381) in [novuhq/novu](https://github.com/novuhq/novu)
+3. 💪 Opened PR [#2381](https://github.com/novuhq/novu/pull/2381) in [novuhq/novu](https://github.com/novuhq/novu)
 4. 🗣 Commented on [#3458](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3458) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--END_SECTION:activity-->
