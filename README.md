@@ -48,7 +48,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/novuhq/examples/issues/6) in [novuhq/examples](https://github.com/novuhq/examples)
-2. 💪 Opened PR [#6](https://github.com/novuhq/examples/pull/6) in [novuhq/examples](https://github.com/novuhq/examples)
-3. 🗣 Commented on [#3303](https://github.com/novuhq/novu/issues/3303) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 💪 Opened PR [#5](https://github.com/novuhq/examples/pull/5) in [novuhq/examples](https://github.com/novuhq/examples)
+2. 🗣 Commented on [#6](https://github.com/novuhq/examples/issues/6) in [novuhq/examples](https://github.com/novuhq/examples)
+3. 💪 Opened PR [#6](https://github.com/novuhq/examples/pull/6) in [novuhq/examples](https://github.com/novuhq/examples)
+4. 🗣 Commented on [#3303](https://github.com/novuhq/novu/issues/3303) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
