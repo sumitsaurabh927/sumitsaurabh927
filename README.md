@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/novuhq/examples/pull/8) in [novuhq/examples](https://github.com/novuhq/examples)
-2. ❌ Closed PR [#7](https://github.com/novuhq/examples/pull/7) in [novuhq/examples](https://github.com/novuhq/examples)
-3. 💪 Opened PR [#7](https://github.com/novuhq/examples/pull/7) in [novuhq/examples](https://github.com/novuhq/examples)
-4. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 💪 Opened PR [#8](https://github.com/novuhq/examples/pull/8) in [novuhq/examples](https://github.com/novuhq/examples)
+3. ❌ Closed PR [#7](https://github.com/novuhq/examples/pull/7) in [novuhq/examples](https://github.com/novuhq/examples)
+4. 💪 Opened PR [#7](https://github.com/novuhq/examples/pull/7) in [novuhq/examples](https://github.com/novuhq/examples)
 <!--END_SECTION:activity-->
