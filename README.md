@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
+1. ❌ Closed PR [#3683](https://github.com/novuhq/novu/pull/3683) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 💪 Opened PR [#3683](https://github.com/novuhq/novu/pull/3683) in [novuhq/novu](https://github.com/novuhq/novu)
 3. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 💪 Opened PR [#8](https://github.com/novuhq/examples/pull/8) in [novuhq/examples](https://github.com/novuhq/examples)
+4. 🗣 Commented on [#3590](https://github.com/novuhq/novu/issues/3590) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
