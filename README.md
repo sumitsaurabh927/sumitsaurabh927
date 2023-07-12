@@ -48,7 +48,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3776](https://github.com/novuhq/novu/issues/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 💪 Opened PR [#3776](https://github.com/novuhq/novu/pull/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 🎉 Merged PR [#3696](https://github.com/novuhq/novu/pull/3696) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 💪 Opened PR [#3696](https://github.com/novuhq/novu/pull/3696) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 🗣 Commented on [#3776](https://github.com/novuhq/novu/issues/3776) in [novuhq/novu](https://github.com/novuhq/novu)
+3. 💪 Opened PR [#3776](https://github.com/novuhq/novu/pull/3776) in [novuhq/novu](https://github.com/novuhq/novu)
+4. 🎉 Merged PR [#3696](https://github.com/novuhq/novu/pull/3696) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
