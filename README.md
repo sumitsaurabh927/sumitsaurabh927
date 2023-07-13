@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3776](https://github.com/novuhq/novu/issues/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#3776](https://github.com/novuhq/novu/issues/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 💪 Opened PR [#3776](https://github.com/novuhq/novu/pull/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 🎉 Merged PR [#3696](https://github.com/novuhq/novu/pull/3696) in [novuhq/novu](https://github.com/novuhq/novu)
+1. ❌ Closed PR [#967](https://github.com/swapagarwal/JARVIS-on-Messenger/pull/967) in [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
+2. 🎉 Merged PR [#3776](https://github.com/novuhq/novu/pull/3776) in [novuhq/novu](https://github.com/novuhq/novu)
+3. ❌ Closed PR [#3690](https://github.com/novuhq/novu/pull/3690) in [novuhq/novu](https://github.com/novuhq/novu)
+4. 🔒 Closed issue [#4380](https://github.com/EddieHubCommunity/support/issues/4380) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
