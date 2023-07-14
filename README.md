@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#967](https://github.com/swapagarwal/JARVIS-on-Messenger/pull/967) in [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
-2. 🎉 Merged PR [#3776](https://github.com/novuhq/novu/pull/3776) in [novuhq/novu](https://github.com/novuhq/novu)
-3. ❌ Closed PR [#3690](https://github.com/novuhq/novu/pull/3690) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 🔒 Closed issue [#4380](https://github.com/EddieHubCommunity/support/issues/4380) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🔒 Closed issue [#1](https://github.com/novuhq/nextjs-quickstart/issues/1) in [novuhq/nextjs-quickstart](https://github.com/novuhq/nextjs-quickstart)
+2. 🎉 Merged PR [#2](https://github.com/novuhq/nextjs-quickstart/pull/2) in [novuhq/nextjs-quickstart](https://github.com/novuhq/nextjs-quickstart)
+3. 🗣 Commented on [#2](https://github.com/novuhq/nextjs-quickstart/pull/2#issuecomment-1635563309) in [novuhq/nextjs-quickstart](https://github.com/novuhq/nextjs-quickstart)
+4. ❌ Closed PR [#967](https://github.com/swapagarwal/JARVIS-on-Messenger/pull/967) in [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger)
 <!--END_SECTION:activity-->
