@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3810](https://github.com/novuhq/novu/pull/3810) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#3799](https://github.com/novuhq/novu/pull/3799#issuecomment-1636529140) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 💪 Opened PR [#3799](https://github.com/novuhq/novu/pull/3799) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 🔒 Closed issue [#1](https://github.com/novuhq/nextjs-quickstart/issues/1) in [novuhq/nextjs-quickstart](https://github.com/novuhq/nextjs-quickstart)
+1. 🎉 Merged PR [#3799](https://github.com/novuhq/novu/pull/3799) in [novuhq/novu](https://github.com/novuhq/novu)
+2. 💪 Opened PR [#3810](https://github.com/novuhq/novu/pull/3810) in [novuhq/novu](https://github.com/novuhq/novu)
+3. 🗣 Commented on [#3799](https://github.com/novuhq/novu/pull/3799#issuecomment-1636529140) in [novuhq/novu](https://github.com/novuhq/novu)
+4. 💪 Opened PR [#3799](https://github.com/novuhq/novu/pull/3799) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
