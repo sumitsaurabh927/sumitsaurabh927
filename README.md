@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1652282212) in [novuhq/novu](https://github.com/novuhq/novu)
-2. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1652279804) in [novuhq/novu](https://github.com/novuhq/novu)
-3. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1650151288) in [novuhq/novu](https://github.com/novuhq/novu)
-4. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1649660233) in [novuhq/novu](https://github.com/novuhq/novu)
+1. 🎉 Merged PR [#1](https://github.com/novuhq/novu-headless-demo-app/pull/1) in [novuhq/novu-headless-demo-app](https://github.com/novuhq/novu-headless-demo-app)
+2. 💪 Opened PR [#1](https://github.com/novuhq/novu-headless-demo-app/pull/1) in [novuhq/novu-headless-demo-app](https://github.com/novuhq/novu-headless-demo-app)
+3. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1652282212) in [novuhq/novu](https://github.com/novuhq/novu)
+4. 🗣 Commented on [#3766](https://github.com/novuhq/novu/pull/3766#issuecomment-1652279804) in [novuhq/novu](https://github.com/novuhq/novu)
 <!--END_SECTION:activity-->
