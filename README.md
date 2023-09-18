@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/novuhq/novu-laravel/issues/2) in [novuhq/novu-laravel](https://github.com/novuhq/novu-laravel)
-2. ❗ Opened issue [#19](https://github.com/novuhq/novu-kotlin/issues/19) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
-3. ❗ Opened issue [#72](https://github.com/novuhq/novu-dotnet/issues/72) in [novuhq/novu-dotnet](https://github.com/novuhq/novu-dotnet)
-4. ❗ Opened issue [#33](https://github.com/novuhq/go-novu/issues/33) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+1. ❗ Opened issue [#4164](https://github.com/novuhq/novu/issues/4164) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ❗ Opened issue [#2](https://github.com/novuhq/novu-laravel/issues/2) in [novuhq/novu-laravel](https://github.com/novuhq/novu-laravel)
+3. ❗ Opened issue [#19](https://github.com/novuhq/novu-kotlin/issues/19) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
+4. ❗ Opened issue [#72](https://github.com/novuhq/novu-dotnet/issues/72) in [novuhq/novu-dotnet](https://github.com/novuhq/novu-dotnet)
 <!--END_SECTION:activity-->
