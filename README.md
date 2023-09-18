@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4164](https://github.com/novuhq/novu/issues/4164) in [novuhq/novu](https://github.com/novuhq/novu)
-2. ❗ Opened issue [#2](https://github.com/novuhq/novu-laravel/issues/2) in [novuhq/novu-laravel](https://github.com/novuhq/novu-laravel)
-3. ❗ Opened issue [#19](https://github.com/novuhq/novu-kotlin/issues/19) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
-4. ❗ Opened issue [#72](https://github.com/novuhq/novu-dotnet/issues/72) in [novuhq/novu-dotnet](https://github.com/novuhq/novu-dotnet)
+1. 💪 Opened PR [#4165](https://github.com/novuhq/novu/pull/4165) in [novuhq/novu](https://github.com/novuhq/novu)
+2. ❗ Opened issue [#4164](https://github.com/novuhq/novu/issues/4164) in [novuhq/novu](https://github.com/novuhq/novu)
+3. ❗ Opened issue [#2](https://github.com/novuhq/novu-laravel/issues/2) in [novuhq/novu-laravel](https://github.com/novuhq/novu-laravel)
+4. ❗ Opened issue [#19](https://github.com/novuhq/novu-kotlin/issues/19) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
 <!--END_SECTION:activity-->
