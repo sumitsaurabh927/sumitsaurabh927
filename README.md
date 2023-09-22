@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731466634) in [novuhq/website](https://github.com/novuhq/website)
-2. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731462135) in [novuhq/website](https://github.com/novuhq/website)
-3. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1730828303) in [novuhq/website](https://github.com/novuhq/website)
-4. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1729918772) in [novuhq/website](https://github.com/novuhq/website)
+1. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731489611) in [novuhq/website](https://github.com/novuhq/website)
+2. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731466634) in [novuhq/website](https://github.com/novuhq/website)
+3. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731462135) in [novuhq/website](https://github.com/novuhq/website)
+4. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1730828303) in [novuhq/website](https://github.com/novuhq/website)
 <!--END_SECTION:activity-->
