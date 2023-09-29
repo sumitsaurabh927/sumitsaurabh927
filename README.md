@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1733614695) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
-2. 🗣 Commented on [#19](https://github.com/novuhq/novu-kotlin/issues/19#issuecomment-1733110436) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
-3. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1732289002) in [novuhq/website](https://github.com/novuhq/website)
-4. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1731765258) in [novuhq/website](https://github.com/novuhq/website)
+1. 💪 Opened PR [#134](https://github.com/novuhq/docs/pull/134) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#33](https://github.com/novuhq/go-novu/issues/33#issuecomment-1733614695) in [novuhq/go-novu](https://github.com/novuhq/go-novu)
+3. 🗣 Commented on [#19](https://github.com/novuhq/novu-kotlin/issues/19#issuecomment-1733110436) in [novuhq/novu-kotlin](https://github.com/novuhq/novu-kotlin)
+4. 🗣 Commented on [#104](https://github.com/novuhq/website/pull/104#issuecomment-1732289002) in [novuhq/website](https://github.com/novuhq/website)
 <!--END_SECTION:activity-->
