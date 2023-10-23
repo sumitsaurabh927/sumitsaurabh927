@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/novuhq/docs/pull/281#issuecomment-1773890075) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#281](https://github.com/novuhq/docs/pull/281) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 💪 Opened PR [#273](https://github.com/novuhq/docs/pull/273) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 🎉 Merged PR [#267](https://github.com/novuhq/docs/pull/267) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🗣 Commented on [#281](https://github.com/novuhq/docs/pull/281#issuecomment-1774904894) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🗣 Commented on [#281](https://github.com/novuhq/docs/pull/281#issuecomment-1773890075) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#281](https://github.com/novuhq/docs/pull/281) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 💪 Opened PR [#273](https://github.com/novuhq/docs/pull/273) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
