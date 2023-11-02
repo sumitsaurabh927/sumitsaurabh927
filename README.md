@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#313](https://github.com/novuhq/docs/issues/313) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 🎉 Merged PR [#314](https://github.com/novuhq/docs/pull/314) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🔒 Closed issue [#292](https://github.com/novuhq/docs/issues/292) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 🎉 Merged PR [#293](https://github.com/novuhq/docs/pull/293) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🔒 Closed issue [#277](https://github.com/novuhq/docs/issues/277) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 🎉 Merged PR [#317](https://github.com/novuhq/docs/pull/317) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 🔒 Closed issue [#313](https://github.com/novuhq/docs/issues/313) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 🎉 Merged PR [#314](https://github.com/novuhq/docs/pull/314) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
