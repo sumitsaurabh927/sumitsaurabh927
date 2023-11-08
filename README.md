@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#349](https://github.com/novuhq/docs/pull/349) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#331](https://github.com/novuhq/docs/pull/331) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 🗣 Commented on [#269](https://github.com/novuhq/docs/pull/269#issuecomment-1794158044) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 🗣 Commented on [#23](https://github.com/novuhq/novu-rust/issues/23#issuecomment-1791084289) in [novuhq/novu-rust](https://github.com/novuhq/novu-rust)
+1. 🎉 Merged PR [#1](https://github.com/novuhq/discord-chat-app/pull/1) in [novuhq/discord-chat-app](https://github.com/novuhq/discord-chat-app)
+2. 💪 Opened PR [#1](https://github.com/novuhq/discord-chat-app/pull/1) in [novuhq/discord-chat-app](https://github.com/novuhq/discord-chat-app)
+3. 🎉 Merged PR [#1](https://github.com/novuhq/slack-app/pull/1) in [novuhq/slack-app](https://github.com/novuhq/slack-app)
+4. 💪 Opened PR [#1](https://github.com/novuhq/slack-app/pull/1) in [novuhq/slack-app](https://github.com/novuhq/slack-app)
 <!--END_SECTION:activity-->
