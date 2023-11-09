@@ -47,8 +47,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/novuhq/novu-php/pull/62) in [novuhq/novu-php](https://github.com/novuhq/novu-php)
-2. 🔒 Closed issue [#162](https://github.com/novuhq/novu-python/issues/162) in [novuhq/novu-python](https://github.com/novuhq/novu-python)
-3. 🎉 Merged PR [#163](https://github.com/novuhq/novu-python/pull/163) in [novuhq/novu-python](https://github.com/novuhq/novu-python)
-4. 🎉 Merged PR [#355](https://github.com/novuhq/docs/pull/355) in [novuhq/docs](https://github.com/novuhq/docs)
+1. 🎉 Merged PR [#54](https://github.com/novuhq/novu-ruby/pull/54) in [novuhq/novu-ruby](https://github.com/novuhq/novu-ruby)
+2. 💪 Opened PR [#361](https://github.com/novuhq/docs/pull/361) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 🎉 Merged PR [#53](https://github.com/novuhq/novu-ruby/pull/53) in [novuhq/novu-ruby](https://github.com/novuhq/novu-ruby)
+4. 🎉 Merged PR [#62](https://github.com/novuhq/novu-php/pull/62) in [novuhq/novu-php](https://github.com/novuhq/novu-php)
 <!--END_SECTION:activity-->
