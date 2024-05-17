@@ -17,8 +17,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitsaurabh927&count_private=true" alt="sumitsaurabh927" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaurabh927&" alt="sumitsaurabh927" /></p>
-
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#16](https://github.com/novuhq/examples/pull/16) in [novuhq/examples](https://github.com/novuhq/examples)
 2. ❌ Closed PR [#15](https://github.com/novuhq/examples/pull/15) in [novuhq/examples](https://github.com/novuhq/examples)
