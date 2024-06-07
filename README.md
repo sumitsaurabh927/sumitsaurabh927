@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#604](https://github.com/novuhq/docs/pull/604) in [novuhq/docs](https://github.com/novuhq/docs)
-2. 💪 Opened PR [#598](https://github.com/novuhq/docs/pull/598) in [novuhq/docs](https://github.com/novuhq/docs)
-3. 💪 Opened PR [#594](https://github.com/novuhq/docs/pull/594) in [novuhq/docs](https://github.com/novuhq/docs)
-4. 💪 Opened PR [#16](https://github.com/novuhq/examples/pull/16) in [novuhq/examples](https://github.com/novuhq/examples)
+1. 🎉 Merged PR [#611](https://github.com/novuhq/docs/pull/611) in [novuhq/docs](https://github.com/novuhq/docs)
+2. 💪 Opened PR [#611](https://github.com/novuhq/docs/pull/611) in [novuhq/docs](https://github.com/novuhq/docs)
+3. 💪 Opened PR [#604](https://github.com/novuhq/docs/pull/604) in [novuhq/docs](https://github.com/novuhq/docs)
+4. 💪 Opened PR [#598](https://github.com/novuhq/docs/pull/598) in [novuhq/docs](https://github.com/novuhq/docs)
 <!--END_SECTION:activity-->
