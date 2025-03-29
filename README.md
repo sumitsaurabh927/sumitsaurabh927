@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
-2. 💪 Opened PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
-3. 🎉 Merged PR [#242](https://github.com/novuhq/website/pull/242) in [novuhq/website](https://github.com/novuhq/website)
+1. 💪 Opened PR [#3259](https://github.com/nhost/nhost/pull/3259) in [nhost/nhost](https://github.com/nhost/nhost)
+2. 🎉 Merged PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
+3. 💪 Opened PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
 4. 💪 Opened PR [#186](https://github.com/novuhq/website/pull/186) in [novuhq/website](https://github.com/novuhq/website)
 <!--END_SECTION:activity-->
