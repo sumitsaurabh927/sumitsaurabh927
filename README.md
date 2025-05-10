@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/sumitsaurabh927/calculator/pull/1) in [sumitsaurabh927/calculator](https://github.com/sumitsaurabh927/calculator)
-2. 💪 Opened PR [#3259](https://github.com/nhost/nhost/pull/3259) in [nhost/nhost](https://github.com/nhost/nhost)
+1. 🗣 Commented on [#1](https://github.com/sumitsaurabh927/calculator/pull/1#issuecomment-2866186718) in [sumitsaurabh927/calculator](https://github.com/sumitsaurabh927/calculator)
+2. 💪 Opened PR [#1](https://github.com/sumitsaurabh927/calculator/pull/1) in [sumitsaurabh927/calculator](https://github.com/sumitsaurabh927/calculator)
 3. 🎉 Merged PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
 4. 💪 Opened PR [#3235](https://github.com/nhost/nhost/pull/3235) in [nhost/nhost](https://github.com/nhost/nhost)
 <!--END_SECTION:activity-->
