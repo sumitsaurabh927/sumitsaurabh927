@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#374](https://github.com/MotiaDev/motia/pull/374) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
-2. 🗣 Commented on [#374](https://github.com/MotiaDev/motia/pull/374#issuecomment-2996885967) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
-3. 💪 Opened PR [#377](https://github.com/MotiaDev/motia/pull/377) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
-4. 🗣 Commented on [#375](https://github.com/MotiaDev/motia/issues/375#issuecomment-2995185683) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
+1. 🎉 Merged PR [#377](https://github.com/MotiaDev/motia/pull/377) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
+2. 🎉 Merged PR [#374](https://github.com/MotiaDev/motia/pull/374) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
+3. 🗣 Commented on [#374](https://github.com/MotiaDev/motia/pull/374#issuecomment-2996885967) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
+4. 💪 Opened PR [#377](https://github.com/MotiaDev/motia/pull/377) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
 <!--END_SECTION:activity-->
