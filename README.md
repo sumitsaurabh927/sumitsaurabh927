@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/MotiaDev/motia-examples/pull/34#issuecomment-3008071560) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
-2. 💪 Opened PR [#380](https://github.com/MotiaDev/motia/pull/380) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
-3. 💪 Opened PR [#379](https://github.com/MotiaDev/motia/pull/379) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
-4. 💪 Opened PR [#378](https://github.com/MotiaDev/motia/pull/378) in [MotiaDev/motia](https://github.com/MotiaDev/motia)
+1. ❌ Closed PR [#27](https://github.com/MotiaDev/motia-examples/pull/27) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
+2. 🎉 Merged PR [#28](https://github.com/MotiaDev/motia-examples/pull/28) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
+3. 🎉 Merged PR [#34](https://github.com/MotiaDev/motia-examples/pull/34) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
+4. 🗣 Commented on [#34](https://github.com/MotiaDev/motia-examples/pull/34#issuecomment-3008071560) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
 <!--END_SECTION:activity-->
