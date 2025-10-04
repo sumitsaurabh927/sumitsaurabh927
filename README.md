@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1185](https://github.com/lingodotdev/lingo.dev/pull/1185) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. 🗣 Commented on [#1154](https://github.com/lingodotdev/lingo.dev/issues/1154#issuecomment-3264667421) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🎉 Merged PR [#1185](https://github.com/lingodotdev/lingo.dev/pull/1185) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. 💪 Opened PR [#1185](https://github.com/lingodotdev/lingo.dev/pull/1185) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 3. 🗣 Commented on [#1154](https://github.com/lingodotdev/lingo.dev/issues/1154#issuecomment-3264667421) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 4. 💪 Opened PR [#35](https://github.com/MotiaDev/motia-examples/pull/35) in [MotiaDev/motia-examples](https://github.com/MotiaDev/motia-examples)
 <!--END_SECTION:activity-->
