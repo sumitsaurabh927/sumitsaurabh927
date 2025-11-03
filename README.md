@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#1341](https://github.com/lingodotdev/lingo.dev/issues/1341) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2.  Labeled issue [#1341](https://github.com/lingodotdev/lingo.dev/issues/1341) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-3.  Labeled issue [#1340](https://github.com/lingodotdev/lingo.dev/issues/1340) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-4. ❌ Labeled PR [#1514](undefined) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1.  Labeled issue [#1294](https://github.com/lingodotdev/lingo.dev/issues/1294) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2.  Labeled issue [#1300](https://github.com/lingodotdev/lingo.dev/issues/1300) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. ❌ Labeled PR [#1425](undefined) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+4.  Assigned issue [#1302](https://github.com/lingodotdev/lingo.dev/issues/1302) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
