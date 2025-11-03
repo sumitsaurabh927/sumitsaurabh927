@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1391](undefined) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2.  Labeled issue [#1253](https://github.com/lingodotdev/lingo.dev/issues/1253) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-3.  Labeled issue [#1254](https://github.com/lingodotdev/lingo.dev/issues/1254) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-4. 🗣 Commented on [#1254](https://github.com/lingodotdev/lingo.dev/issues/1254#issuecomment-3482473564) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🗣 Commented on [#1078](https://github.com/lingodotdev/lingo.dev/issues/1078#issuecomment-3482825521) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. ❌ Labeled PR [#1508](undefined) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. 🗣 Commented on [#1508](https://github.com/lingodotdev/lingo.dev/pull/1508#issuecomment-3482823051) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+4. 🗣 Commented on [#1513](https://github.com/lingodotdev/lingo.dev/pull/1513#issuecomment-3482820036) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
