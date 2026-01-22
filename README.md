@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. ℹ️ Labeled issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-3. ❗ Opened issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-4. 🎉 Merged PR [#1749](https://github.com/lingodotdev/lingo.dev/pull/1749) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🗣 Commented on [#1762](https://github.com/lingodotdev/lingo.dev/pull/1762#issuecomment-3782929868) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. 🗣 Commented on [#1762](https://github.com/lingodotdev/lingo.dev/pull/1762#issuecomment-3782921084) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. ℹ️ Labeled PR [#1762](https://github.com/lingodotdev/lingo.dev/pull/1762) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+4. ℹ️ Labeled issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
