@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1890](https://github.com/lingodotdev/lingo.dev/pull/1890#issuecomment-3804687127) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. 🗣 Commented on [#1890](https://github.com/lingodotdev/lingo.dev/pull/1890#issuecomment-3804448730) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. ℹ️ Assigned issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. ℹ️ Assigned issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 3. ℹ️ Assigned issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 4. ℹ️ Assigned issue [#1761](https://github.com/lingodotdev/lingo.dev/issues/1761) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
