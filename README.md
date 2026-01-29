@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1922](https://github.com/lingodotdev/lingo.dev/pull/1922#issuecomment-3815574154) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. 🗣 Commented on [#1922](https://github.com/lingodotdev/lingo.dev/pull/1922#issuecomment-3815564532) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-3. 🗣 Commented on [#1922](https://github.com/lingodotdev/lingo.dev/pull/1922#issuecomment-3815551427) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-4. 🎉 Merged PR [#1919](https://github.com/lingodotdev/lingo.dev/pull/1919) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🗣 Commented on [#1889](https://github.com/lingodotdev/lingo.dev/pull/1889#issuecomment-3815660378) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. 🗣 Commented on [#1901](https://github.com/lingodotdev/lingo.dev/pull/1901#issuecomment-3815643860) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. 🗣 Commented on [#1890](https://github.com/lingodotdev/lingo.dev/pull/1890#issuecomment-3815620706) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+4. 🗣 Commented on [#1891](https://github.com/lingodotdev/lingo.dev/pull/1891#issuecomment-3815617097) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
