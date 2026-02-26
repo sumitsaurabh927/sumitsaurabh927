@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. ℹ️ Labeled issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🗣 Commented on [#1](https://github.com/lingodotdev/sdk-go/issues/1#issuecomment-3966667308) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
+2. ℹ️ Assigned issue [#1](https://github.com/lingodotdev/sdk-go/issues/1) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
 3. ℹ️ Labeled issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 4. ℹ️ Labeled issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
