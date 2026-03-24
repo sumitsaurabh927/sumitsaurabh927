@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/lingodotdev/sdk-go/issues/1) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
-2. 🗣 Commented on [#1](https://github.com/lingodotdev/sdk-go/issues/1#issuecomment-3982819457) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
-3. 🗣 Commented on [#1073](https://github.com/lingodotdev/lingo.dev/issues/1073#issuecomment-3982818769) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-4. ℹ️ Assigned issue [#1073](https://github.com/lingodotdev/lingo.dev/issues/1073) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🔒 Closed issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. 🗣 Commented on [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976#issuecomment-4117155222) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. 🔒 Closed issue [#1](https://github.com/lingodotdev/sdk-go/issues/1) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
+4. 🗣 Commented on [#1](https://github.com/lingodotdev/sdk-go/issues/1#issuecomment-3982819457) in [lingodotdev/sdk-go](https://github.com/lingodotdev/sdk-go)
 <!--END_SECTION:activity-->
