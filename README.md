@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1969](https://github.com/lingodotdev/lingo.dev/pull/1969#issuecomment-4120160004) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. 🎉 Merged PR [#11](https://github.com/lingodotdev/sdk-python/pull/11) in [lingodotdev/sdk-python](https://github.com/lingodotdev/sdk-python)
-3. 💪 Opened PR [#11](https://github.com/lingodotdev/sdk-python/pull/11) in [lingodotdev/sdk-python](https://github.com/lingodotdev/sdk-python)
-4. 🔒 Closed issue [#1976](https://github.com/lingodotdev/lingo.dev/issues/1976) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 🗣 Commented on [#1969](https://github.com/lingodotdev/lingo.dev/pull/1969#issuecomment-4120406176) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+2. 🗣 Commented on [#1969](https://github.com/lingodotdev/lingo.dev/pull/1969#issuecomment-4120294322) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+3. ℹ️ Assigned issue [#1733](https://github.com/lingodotdev/lingo.dev/issues/1733) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+4. 🗣 Commented on [#1969](https://github.com/lingodotdev/lingo.dev/pull/1969#issuecomment-4120160004) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
