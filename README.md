@@ -18,8 +18,8 @@
 -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2078](https://github.com/lingodotdev/lingo.dev/pull/2078) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-2. 💪 Opened PR [#2078](https://github.com/lingodotdev/lingo.dev/pull/2078) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
-3. ❌ Closed PR [#2072](https://github.com/lingodotdev/lingo.dev/pull/2072) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
+1. 💪 Opened PR [#2](https://github.com/sumitsaurabh927/spliit/pull/2) in [sumitsaurabh927/spliit](https://github.com/sumitsaurabh927/spliit)
+2. 🎉 Merged PR [#1](https://github.com/sumitsaurabh927/spliit/pull/1) in [sumitsaurabh927/spliit](https://github.com/sumitsaurabh927/spliit)
+3. 💪 Opened PR [#1](https://github.com/sumitsaurabh927/spliit/pull/1) in [sumitsaurabh927/spliit](https://github.com/sumitsaurabh927/spliit)
 4. 💪 Opened PR [#2072](https://github.com/lingodotdev/lingo.dev/pull/2072) in [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev)
 <!--END_SECTION:activity-->
